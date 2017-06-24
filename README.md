@@ -1,4 +1,3 @@
 # Ejemplo-GITHUD
 
-
-sesiones de trabajo colaborativo
+Esto solo lo debe hacer el administrador 
